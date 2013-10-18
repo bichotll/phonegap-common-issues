@@ -7,5 +7,5 @@ A repository created to write all the common issues related with Phonegap, devic
 * search about your current one
 * or, give your feedback/share...
 
-# [WIKI]((https://github.com/bichotll/phonegap-common-issues/wiki/Home))
+# [WIKI link](https://github.com/bichotll/phonegap-common-issues/wiki/Home)
 [Go to the Wiki walker, you will find all what you need ;)](https://github.com/bichotll/phonegap-common-issues/wiki/Home)
